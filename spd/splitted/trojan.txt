@@ -1,9 +1,11 @@
-trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?security=tls&sni=yourjobnavigator.online#%F0%9F%87%AC%F0%9F%87%A7GB-161.35.34.48-0329
-trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online#%F0%9F%87%AC%F0%9F%87%A7GB-161.35.34.48-4078
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-4254
+trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&sni=nextstepcareer.online#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-0330
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&sni=connectwithemployers.online#%F0%9F%87%B8%F0%9F%87%ACSG-139.59.119.143-4596
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443?security=tls&sni=connectwithemployers.online#%F0%9F%87%B8%F0%9F%87%ACSG-139.59.119.143-0328
-trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&sni=nextstepcareer.online#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-0330
+trojan://telegram-id-privatevpns@51.21.210.20:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-51.21.210.20-5700
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online#%F0%9F%87%AC%F0%9F%87%A7GB-161.35.34.48-4078
+trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?security=tls&sni=yourjobnavigator.online#%F0%9F%87%AC%F0%9F%87%A7GB-161.35.34.48-0329
+trojan://ecd0de80-ec7d-11ef-b0dd-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.65.155-4160
 trojan://abcaabc-aabc-baca-abcd-bbbbccacaaca@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3465
 trojan://aabccba-bcaa-baac-bcad-cbbcaaabcabc@127.0.0.1:2080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3466
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.95-1108
@@ -155,7 +157,6 @@ trojan://blue2024@104.26.14.203:443?security=tls&sni=hb.lii2010.us.kg#%F0%9F%8F%
 trojan://telegram-id-directvpn@51.44.122.101:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-51.44.122.101-4157
 trojan://Aimer@129.226.150.167:443?security=tls&sni=agepq.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-129.226.150.167-4158
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@143.110.246.228:443?security=tls&sni=kdlsupport.zendesk.com#%F0%9F%87%AE%F0%9F%87%B3IN-143.110.246.228-4159
-trojan://ecd0de80-ec7d-11ef-b0dd-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.65.155-4160
 trojan://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443?security=tls&sni=pardazeshvpn-tg104.pages.dev#%F0%9F%8F%81RELAY-172.66.44.171-4161
 trojan://Aimer@199.34.228.178:8443?security=tls&sni=agepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-199.34.228.178-4162
 trojan://blue2024@190.93.245.154:443?security=tls&sni=hb.lii2010.us.kg#%F0%9F%8F%81RELAY-190.93.245.154-4163
@@ -764,7 +765,6 @@ trojan://7d858e5a-664e-419f-b6a1-c3bceb8ac208@45.146.232.171:27102?security=tls&
 trojan://Aimer@192.200.160.109:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-192.200.160.109-4778
 trojan://5d58b7eb-43c4-448c-90e5-17b2a85ccb3b@sg02.trojanyyds.xyz:443?security=tls&sni=sg02.trojanyyds.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-74.226.136.204-5692
 trojan://15c33952@152.67.228.132:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-152.67.228.132-5696
-trojan://telegram-id-privatevpns@51.21.210.20:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-51.21.210.20-5700
 trojan://dc60df50-8c99-3d27-aa81-cd93e16de9fe@gy.58n.net:56783?security=tls&sni=z266.hongkongnode.top#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.170-5734
 trojan://dc60df50-8c99-3d27-aa81-cd93e16de9fe@gy.58n.net:59021?security=tls&sni=x100.flybar.work#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.170-5747
 trojan://Vad3.123a%29asd1234-asdasd.asdazzS.123@43.154.83.213:443?security=tls&sni=xx.tc.hk.go.107421.xyz#%F0%9F%87%AD%F0%9F%87%B0HK-43.154.83.213-5749
