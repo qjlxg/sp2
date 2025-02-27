@@ -1,9 +1,9 @@
-trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&sni=nextstepcareer.online#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-0330
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online#%F0%9F%87%AC%F0%9F%87%A7GB-161.35.34.48-4078
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&sni=connectwithemployers.online#%F0%9F%87%B8%F0%9F%87%ACSG-139.59.119.143-4596
+trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?security=tls&sni=yourjobnavigator.online#%F0%9F%87%AC%F0%9F%87%A7GB-161.35.34.48-0329
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443?security=tls&sni=connectwithemployers.online#%F0%9F%87%B8%F0%9F%87%ACSG-139.59.119.143-0328
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-4254
-trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?security=tls&sni=yourjobnavigator.online#%F0%9F%87%AC%F0%9F%87%A7GB-161.35.34.48-0329
-trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online#%F0%9F%87%AC%F0%9F%87%A7GB-161.35.34.48-4078
+trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&sni=nextstepcareer.online#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-0330
 trojan://abcaabc-aabc-baca-abcd-bbbbccacaaca@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3465
 trojan://aabccba-bcaa-baac-bcad-cbbcaaabcabc@127.0.0.1:2080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3466
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.95-1108
