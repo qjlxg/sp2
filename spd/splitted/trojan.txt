@@ -1,4 +1,3 @@
-trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50011?security=tls&sni=sk05.zygbx.com#%F0%9F%87%AC%F0%9F%87%A7GB-5.83.221.31-4103
 trojan://abcaabc-aabc-baca-abcd-bbbbccacaaca@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3465
 trojan://aabccba-bcaa-baac-bcad-cbbcaaabcabc@127.0.0.1:2080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3466
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.95-1108
@@ -97,6 +96,7 @@ trojan://Aimer@59.1.59.225:50000?security=tls&sni=ngepo.ambercc.filegear-sg.me#%
 trojan://amclubs2024@58.176.95.46:443?security=tls&sni=tr.amclub.us.kg#%F0%9F%87%AD%F0%9F%87%B0HK-58.176.95.46-4099
 trojan://xuw6UrI1CzB_tpFz1kykrw@162.250.99.26:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-162.250.99.26-4100
 trojan://Aimer@168.138.204.44:587?security=tls&sni=ngepo.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.204.44-4101
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50011?security=tls&sni=sk05.zygbx.com#%F0%9F%87%AC%F0%9F%87%A7GB-5.83.221.31-4103
 trojan://Aimer@46.254.93.243:8443?security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-46.254.93.243-4104
 trojan://Aimer@162.159.44.199:443?security=tls&sni=agepy.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-162.159.44.199-4105
 trojan://blue2024@104.16.97.152:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%81RELAY-104.16.97.152-4106
