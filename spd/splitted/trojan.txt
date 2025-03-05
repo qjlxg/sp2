@@ -1,4 +1,5 @@
-trojan://ecd0de80-ec7d-11ef-b0dd-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.65.155-4160
+trojan://64044f5a-7249-30ba-8767-c31eb5dc54ad@gy.58n.net:36821?security=tls&sni=z262.hongkongnode.top#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.170-0237
+trojan://Aimer@118.37.220.10:11300?security=tls&sni=ngepo.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-118.37.220.10-4344
 trojan://abcaabc-aabc-baca-abcd-bbbbccacaaca@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3465
 trojan://aabccba-bcaa-baac-bcad-cbbcaaabcabc@127.0.0.1:2080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3466
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.95-1108
@@ -17,7 +18,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443?securi
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-74.226.136.204-0327
 trojan://telegram-id-privatevpns@3.79.164.46:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.79.164.46-0282
 trojan://64044f5a-7249-30ba-8767-c31eb5dc54ad@gy.58n.net:20300?security=tls&sni=z300.hongkongnode.top#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.170-0240
-trojan://64044f5a-7249-30ba-8767-c31eb5dc54ad@gy.58n.net:36821?security=tls&sni=z262.hongkongnode.top#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.170-0237
 trojan://64044f5a-7249-30ba-8767-c31eb5dc54ad@gy.58n.net:50355?security=tls&sni=z264.hongkongnode.top#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.170-0232
 trojan://64044f5a-7249-30ba-8767-c31eb5dc54ad@gy.58n.net:20279?security=tls&sni=z279.hongkongnode.top#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.170-0229
 trojan://telegram-id-directvpn@52.211.133.252:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-52.211.133.252-0174
@@ -154,6 +154,7 @@ trojan://blue2024@104.26.14.203:443?security=tls&sni=hb.lii2010.us.kg#%F0%9F%8F%
 trojan://telegram-id-directvpn@51.44.122.101:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-51.44.122.101-4157
 trojan://Aimer@129.226.150.167:443?security=tls&sni=agepq.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-129.226.150.167-4158
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@143.110.246.228:443?security=tls&sni=kdlsupport.zendesk.com#%F0%9F%87%AE%F0%9F%87%B3IN-143.110.246.228-4159
+trojan://ecd0de80-ec7d-11ef-b0dd-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.65.155-4160
 trojan://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443?security=tls&sni=pardazeshvpn-tg104.pages.dev#%F0%9F%8F%81RELAY-172.66.44.171-4161
 trojan://Aimer@199.34.228.178:8443?security=tls&sni=agepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-199.34.228.178-4162
 trojan://blue2024@190.93.245.154:443?security=tls&sni=hb.lii2010.us.kg#%F0%9F%8F%81RELAY-190.93.245.154-4163
@@ -333,7 +334,6 @@ trojan://Aimer@162.159.38.101:2096?security=tls&sni=ngepo.ambercc.filegear-sg.me
 trojan://Aimer@188.164.159.171:443?security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.171-4341
 trojan://Aimer@218.152.197.93:50000?security=tls&sni=ngepo.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-218.152.197.93-4342
 trojan://Bw5Mz7QkVp@149.28.196.145:443?security=tls&sni=z-v2-082496.kailib.com#%F0%9F%87%BA%F0%9F%87%B8US-149.28.196.145-4343
-trojan://Aimer@118.37.220.10:11300?security=tls&sni=ngepo.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-118.37.220.10-4344
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@172.67.73.163:443?security=tls&sni=md1.safecdn.site#%F0%9F%8F%81RELAY-172.67.73.163-4345
 trojan://IYd0HMG12j@104.21.96.1:443?security=tls&sni=esna.twn24.ir#%F0%9F%8F%81RELAY-104.21.96.1-4346
 trojan://Aimer@125.132.46.2:10022?security=tls&sni=agepq.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-125.132.46.2-4347
