@@ -1,3 +1,4 @@
+trojan://Aimer@135.84.76.152:2087?security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-135.84.76.152-4175
 trojan://abcaabc-aabc-baca-abcd-bbbbccacaaca@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3465
 trojan://aabccba-bcaa-baac-bcad-cbbcaaabcabc@127.0.0.1:2080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3466
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.95-1108
@@ -168,7 +169,6 @@ trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org
 trojan://Aimer@13.250.38.94:443?security=tls&sni=agepy.aimercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-13.250.38.94-4172
 trojan://Aimer@220.122.114.61:10071?security=tls&sni=agepy.aimercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-220.122.114.61-4173
 trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@195.133.52.153:8443?security=tls&sni=ru2.asc-sam.ir#%F0%9F%87%B7%F0%9F%87%BARU-195.133.52.153-4174
-trojan://Aimer@135.84.76.152:2087?security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-135.84.76.152-4175
 trojan://0q%2776Evm32qz%40Q%27%28@172.66.44.226:2087?security=tls&sni=JOInMahdiserver-11R.PaGES.dEv#%F0%9F%8F%81RELAY-172.66.44.226-4176
 trojan://Aimer@118.45.241.209:50000?security=tls&sni=agepq.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-118.45.241.209-4177
 trojan://Aimer@162.159.44.231:2053?security=tls&sni=ngepo.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-162.159.44.231-4178
