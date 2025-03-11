@@ -1,3 +1,4 @@
+trojan://Aimer@154.197.64.240:8443?security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-154.197.64.240-4696
 trojan://abcaabc-aabc-baca-abcd-bbbbccacaaca@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3465
 trojan://aabccba-bcaa-baac-bcad-cbbcaaabcabc@127.0.0.1:2080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3466
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.95-1108
@@ -681,7 +682,6 @@ trojan://Aimer@206.238.237.118:8443?security=tls&sni=acepo.ambercc.filegear-sg.m
 trojan://Aimer@162.159.44.168:443?security=tls&sni=ngepo.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-162.159.44.168-4693
 trojan://blue2024@108.162.195.155:443?security=tls&sni=tb.promote.icu#%F0%9F%8F%81RELAY-108.162.195.155-4694
 trojan://blue2024@172.64.35.83:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%81RELAY-172.64.35.83-4695
-trojan://Aimer@154.197.64.240:8443?security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-154.197.64.240-4696
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com#%F0%9F%8F%81RELAY-198.41.220.8-4698
 trojan://blue2024@104.17.1.234:443?security=tls&sni=td.promote.icu#%F0%9F%8F%81RELAY-104.17.1.234-4699
 trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:46668?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#%F0%9F%87%AD%F0%9F%87%B0HK-45.146.232.173-4700
