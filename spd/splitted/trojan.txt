@@ -1,3 +1,7 @@
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@31.223.184.248:17721?security=tls&sni=data.52daishu.life#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.248-4089
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@150.230.139.203:17728?security=tls&sni=data.52daishu.life#%F0%9F%87%AE%F0%9F%87%B3IN-150.230.139.203-4538
+trojan://Aimer@194.87.252.135:2053?security=tls&sni=agepy.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BARU-194.87.252.135-4408
+trojan://Aimer@206.238.237.86:2087?security=tls&sni=agepy.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.237.86-4489
 trojan://abcaabc-aabc-baca-abcd-bbbbccacaaca@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3465
 trojan://aabccba-bcaa-baac-bcad-cbbcaaabcabc@127.0.0.1:2080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3466
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.95-1108
@@ -83,7 +87,6 @@ trojan://Aimer@213.109.205.45:443?security=tls&sni=ngepx.ambercc.filegear-sg.me#
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.138.58:443?security=tls&sni=kdlsupport.zendesk.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.58-4086
 trojan://Aimer@175.192.27.197:16992?security=tls&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-175.192.27.197-4087
 trojan://auto@172.66.46.254:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev#%F0%9F%8F%81RELAY-172.66.46.254-4088
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@31.223.184.248:17721?security=tls&sni=data.52daishu.life#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.248-4089
 trojan://Aimer@47.79.86.103:587?security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5JP-47.79.86.103-4090
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.163:443?security=tls&sni=blOOM-cHh.pAges.DeV#%F0%9F%8F%81RELAY-162.159.192.163-4091
 trojan://blue2024@172.64.146.66:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%81RELAY-172.64.146.66-4092
@@ -397,7 +400,6 @@ trojan://Aimer@130.250.137.63:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me
 trojan://bpb-trojan@188.114.97.88:2053?security=tls&sni=G1-21N.paGEs.dev#%F0%9F%8F%81RELAY-188.114.97.88-4405
 trojan://1593d329-8924-4be5-bc19-1d246039b6a7@104.17.147.22:443?security=tls&sni=se1.safecdn.site#%F0%9F%8F%81RELAY-104.17.147.22-4406
 trojan://Aimer@52.32.90.142:80?security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-52.32.90.142-4407
-trojan://Aimer@194.87.252.135:2053?security=tls&sni=agepy.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BARU-194.87.252.135-4408
 trojan://blue2024@104.18.79.171:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%81RELAY-104.18.79.171-4409
 trojan://Bw5Mz7QkVp@95.179.245.249:443?security=tls&sni=z-v2-080537.kailib.com#%F0%9F%87%A9%F0%9F%87%AADE-95.179.245.249-4410
 trojan://blue2024@104.17.165.253:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%81RELAY-104.17.165.253-4411
@@ -477,7 +479,6 @@ trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50015?security=tls#%F0
 trojan://Aimer@172.64.33.110:443?security=tls&sni=ngepo.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-172.64.33.110-4486
 trojan://Aimer@162.159.38.103:2083?security=tls&sni=agepq.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-162.159.38.103-4487
 trojan://blue2024@190.93.244.198:443?security=tls&sni=td.promote.icu#%F0%9F%8F%81RELAY-190.93.244.198-4488
-trojan://Aimer@206.238.237.86:2087?security=tls&sni=agepy.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.237.86-4489
 trojan://DHvwod7oq7@104.21.16.1:2083?security=tls&sni=esna.twn24.ir#%F0%9F%8F%81RELAY-104.21.16.1-4490
 trojan://a1b36c4d-446b-4402-9370-ec6dbf79e143@107.149.254.26:159?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-107.149.254.26-4491
 trojan://blue2024@172.67.160.28:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%81RELAY-172.67.160.28-4492
@@ -526,7 +527,6 @@ trojan://Aimer@104.19.86.120:2096?security=tls&sni=agepy.aimercc.filegear-sg.me#
 trojan://Aimer@23.94.136.126:8080?security=tls&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-23.94.136.126-4535
 trojan://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:443?security=tls&sni=app.soft10.ir#%F0%9F%8F%81RELAY-104.21.37.43-4536
 trojan://Aimer@121.180.184.145:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-121.180.184.145-4537
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@150.230.139.203:17728?security=tls&sni=data.52daishu.life#%F0%9F%87%AE%F0%9F%87%B3IN-150.230.139.203-4538
 trojan://SSorg@77.232.140.7:443?security=tls&sni=ssjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-77.232.140.7-4539
 trojan://Bw5Mz7QkVp@45.76.228.197:443?security=tls&sni=z-v2-078120.kailib.com#%F0%9F%87%BA%F0%9F%87%B8US-45.76.228.197-4540
 trojan://Aimer@45.67.214.41:2083?security=tls&sni=agepw.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-45.67.214.41-4541
