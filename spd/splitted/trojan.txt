@@ -1,4 +1,4 @@
-trojan://Aimer@108.165.152.130:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-108.165.152.130-4621
+trojan://fnufMt%3AsQ%26rC0HUu@172.66.47.84:2083?security=tls&sni=joinmAHDIsERVER-6vv.PaGeS.dEv#%F0%9F%8F%81RELAY-172.66.47.84-4557
 trojan://abcaabc-aabc-baca-abcd-bbbbccacaaca@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3465
 trojan://aabccba-bcaa-baac-bcad-cbbcaaabcabc@127.0.0.1:2080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3466
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.95-1108
@@ -546,7 +546,6 @@ trojan://Aimer@188.166.162.201:443?security=tls&sni=ngepz.ambercc.filegear-sg.me
 trojan://Aimer@45.134.21.8:2053?security=tls&sni=agepq.ambercc.filegear-sg.me#%F0%9F%87%B3%F0%9F%87%B1NL-45.134.21.8-4554
 trojan://E0nPlYFeYt@82.115.6.120:46420?security=tls&sni=yahoo.com#%F0%9F%87%B3%F0%9F%87%B1NL-82.115.6.120-4555
 trojan://Aimer@91.149.239.252:443?security=tls&sni=ngepo.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-91.149.239.252-4556
-trojan://fnufMt%3AsQ%26rC0HUu@172.66.47.84:2083?security=tls&sni=joinmAHDIsERVER-6vv.PaGeS.dEv#%F0%9F%8F%81RELAY-172.66.47.84-4557
 trojan://Aimer@104.26.15.138:2053?security=tls&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-104.26.15.138-4558
 trojan://Aimer@51.116.121.75:443?security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%A9%F0%9F%87%AADE-51.116.121.75-4559
 trojan://Aimer@5.182.84.22:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-5.182.84.22-4560
@@ -608,6 +607,7 @@ trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&sni
 trojan://Aimer@27.50.49.37:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-27.50.49.37-4618
 trojan://NISHIKUITAN111@104.19.44.160:443?security=tls#%F0%9F%8F%81RELAY-104.19.44.160-4619
 trojan://Aimer@172.67.77.127:443?security=tls&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-172.67.77.127-4620
+trojan://Aimer@108.165.152.130:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-108.165.152.130-4621
 trojan://Aimer@95.216.143.166:443?security=tls&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%AB%F0%9F%87%AEFI-95.216.143.166-4622
 trojan://Aimer@77.232.140.101:2053?security=tls&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-77.232.140.101-4623
 trojan://NISHIKUITAN111@213.109.205.159:443?security=tls&sni=za.ylks.xyz#%F0%9F%8F%81RELAY-213.109.205.159-4624
