@@ -1,3 +1,4 @@
+trojan://ouo@65.75.193.154:14491?security=tls&sni=tr.koiok.us.kg#%F0%9F%87%BA%F0%9F%87%B8US-65.75.193.154-4523
 trojan://abcaabc-aabc-baca-abcd-bbbbccacaaca@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3465
 trojan://aabccba-bcaa-baac-bcad-cbbcaaabcabc@127.0.0.1:2080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3466
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.95-1108
@@ -511,7 +512,6 @@ trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.171:46668?security=tls&
 trojan://bpb-trojan@162.159.152.198:443?security=tls&sni=bpbpanel.ac.cn.eu.org#%F0%9F%8F%81RELAY-162.159.152.198-4520
 trojan://Aimer@156.251.180.181:21698?security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-156.251.180.181-4521
 trojan://Aimer@18.153.94.168:443?security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%A9%F0%9F%87%AADE-18.153.94.168-4522
-trojan://ouo@65.75.193.154:14491?security=tls&sni=tr.koiok.us.kg#%F0%9F%87%BA%F0%9F%87%B8US-65.75.193.154-4523
 trojan://Aimer@46.254.92.191:443?security=tls&sni=agepw.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-46.254.92.191-4524
 trojan://telegram-id-privatevpns@35.178.216.126:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-35.178.216.126-4525
 trojan://Aimer@206.238.236.31:8443?security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.31-4526
