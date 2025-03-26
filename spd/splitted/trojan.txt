@@ -1,4 +1,4 @@
-trojan://bpb-trojan@172.67.2.238:443?security=tls&sni=403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev#%F0%9F%8F%81RELAY-172.67.2.238-4662
+trojan://Aimer@188.164.159.174:2053?security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.174-4190
 trojan://abcaabc-aabc-baca-abcd-bbbbccacaaca@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3465
 trojan://aabccba-bcaa-baac-bcad-cbbcaaabcabc@127.0.0.1:2080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3466
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.95-1108
@@ -184,7 +184,6 @@ trojan://Aimer@14.32.9.120:50000?security=tls&sni=ngepo.ambercc.filegear-sg.me#%
 trojan://fivh9CYhgT@104.21.32.1:443?security=tls&sni=esna.twn24.ir#%F0%9F%8F%81RELAY-104.21.32.1-4187
 trojan://Aimer@211.57.90.42:50000?security=tls&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-211.57.90.42-4188
 trojan://NISHIKUITAN222@141.101.121.176:443?security=tls&sni=im.ylks.xyz#%F0%9F%8F%81RELAY-141.101.121.176-4189
-trojan://Aimer@188.164.159.174:2053?security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.174-4190
 trojan://Aimer@45.194.53.81:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-45.194.53.81-4191
 trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net#%F0%9F%8F%81RELAY-104.26.5.60-4192
 trojan://telegram-id-privatevpns@63.33.28.211:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-63.33.28.211-4193
@@ -648,6 +647,7 @@ trojan://Aimer@14.41.85.118:12101?security=tls&sni=ngepz.ambercc.filegear-sg.me#
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk#%F0%9F%8F%81RELAY-104.21.47.176-4659
 trojan://telegram-id-privatevpns@15.237.103.249:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.103.249-4660
 trojan://Aimer@156.255.90.175:8443?security=tls&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%AD%F0%9F%87%B0HK-156.255.90.175-4661
+trojan://bpb-trojan@172.67.2.238:443?security=tls&sni=403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev#%F0%9F%8F%81RELAY-172.67.2.238-4662
 trojan://6d0a7f2f-c26c-466a-8f90-d6630ba97928@137.184.120.86:443?security=tls&sni=829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen#%F0%9F%87%BA%F0%9F%87%B8US-137.184.120.86-4663
 trojan://Aimer@209.208.227.79:443?security=tls&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-209.208.227.79-4664
 trojan://Bw5Mz7QkVp@45.76.228.142:443?security=tls&sni=z-v2-077985.kailib.com#%F0%9F%87%BA%F0%9F%87%B8US-45.76.228.142-4665
